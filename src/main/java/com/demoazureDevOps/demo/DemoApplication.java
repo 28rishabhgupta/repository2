@@ -13,7 +13,7 @@ public class DemoApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("Trying azure devops demo");
+		System.out.println("Trying azure devops demo 1");
 		
 	}
 
